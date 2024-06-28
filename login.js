@@ -1,5 +1,5 @@
 // Insert your code here
-let websiteUrl="https://weatherapp-backend-osg4-8swvd2pdx-patleserdevs-projects.vercel.app"
+let websiteUrl="https://weatherapp-backend-indol-pi.vercel.app/"
 /*
 Au clic sur le bouton #register, envoyez les informations renseignées dans les différents champs vers le backend avec la toute POST /signup.
 
