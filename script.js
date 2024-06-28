@@ -1,4 +1,4 @@
-let websiteUrl="https://weatherapp-backend-osg4-8swvd2pdx-patleserdevs-projects.vercel.app"
+let websiteUrl="https://weatherapp-backend-indol-pi.vercel.app/"
 
 fetch(`${websiteUrl}/weather`)
 	.then(response => response.json())
